@@ -7,3 +7,6 @@ function b() {
 function c() {
   console.log('c')
 }
+function d() {
+  console.log('d')
+}
